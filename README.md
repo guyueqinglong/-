@@ -1,4 +1,4 @@
-# -
+# -code
 //C
 #include <stdio.h>
 
